@@ -22,7 +22,6 @@
 | Student ID | 25127499 |
 | Class | 25C09 |
 | Course | Computational Thinking, University of Science, VNU-HCM |
-| GitHub repository | `<FILL IN PUBLIC GITHUB LINK>` |
 
 ---
 
